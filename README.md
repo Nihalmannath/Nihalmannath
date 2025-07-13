@@ -20,7 +20,7 @@
 
 ```python
 Languages: Python, HTML(Basic!), CSS(Basic!)
-AI/ML: PyTorch(Basic!), LangChain, GPT-4 API, Hugging Face, Gymnasium
+AI/ML: PyTorch(Basic!), LangChain, LLM API, Hugging Face, Open AI
 Data & Graphs: Pandas, NumPy, NetworkX, ChromaDB, Neo4j
 Geometry & Structure: trimesh, PyNite, OBJ/GLB parsing
 Geospatial: Google Earth Engine
