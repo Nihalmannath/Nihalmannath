@@ -17,5 +17,3 @@
 
 ### Connecting Worlds
 "Merging architecture, AI, simulation, and storytelling, blurring lines between model, city, and experience."
-
-'PYTHON'
