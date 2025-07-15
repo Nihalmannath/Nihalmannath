@@ -19,7 +19,7 @@
 "Merging architecture, AI, simulation, and storytelling, blurring lines between model, city, and experience."
 
 ```python
-Languages: Python, HTML(Basic!), CSS(Basic!)
+Languages: Python, HTML, CSS
 AI/ML: PyTorch(Basic!), LangChain, LLM API, Hugging Face, Open AI
 Data & Graphs: Pandas, NumPy, NetworkX, ChromaDB, Neo4j
 Geometry & Structure: trimesh, PyNite, OBJ/GLB parsing
