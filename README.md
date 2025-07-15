@@ -13,7 +13,7 @@
 "Seeing code as material shaping structure, space, and behavior from digital grains."
 
 ### Rewriting the Architect’s Role
-"Challenging static workflows — imagining new tools, processes, and agency in a tech-driven design world."
+"Challenging static workflows / imagining new tools, processes, and agency in a tech-driven design world."
 
 ### Connecting Worlds
 "Merging architecture, AI, simulation, and storytelling, blurring lines between model, city, and experience."
