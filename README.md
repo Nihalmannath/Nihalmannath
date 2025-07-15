@@ -24,7 +24,6 @@ AI/ML: PyTorch(Basic!), LangChain, LLM API, Hugging Face, Open AI
 Data & Graphs: Pandas, NumPy, NetworkX, ChromaDB, Neo4j
 Geometry & Structure: trimesh, PyNite, OBJ/GLB parsing
 Geospatial: Google Earth Engine
-Visualization: Three.js, Jupyter Notebooks
 Automation & APIs: n8n, Slack API, Speckle API
 Dev Tools: Git, GitHub, VS Code, Docker (basic!")
 ```
